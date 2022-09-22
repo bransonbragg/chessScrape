@@ -1,3 +1,3 @@
 # chessScrape   
 
-TOOD: Build database, make GUI for move traversal
+TODO: write GUI for move traversal
